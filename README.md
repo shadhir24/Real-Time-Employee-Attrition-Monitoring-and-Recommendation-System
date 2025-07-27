@@ -5,7 +5,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-11.3.0-orange?logo=firebase)](https://firebase.google.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.17-06B6D4?logo=tailwind-css)](https://tailwindcss.com/)
 
-![Dashboard Preview](public/logo512.png) *(Replace with actual screenshot if available)*
+<img width="3372" height="1820" alt="Image" src="https://github.com/user-attachments/assets/484b1e40-5a40-432f-9a49-545ec1bcf57b" />
 
 ## 🔍 Overview
 A comprehensive employee attrition survey and analytics platform that helps organizations:
@@ -79,4 +79,6 @@ REACT_APP_OPENAI_API_KEY=your-openai-key
 - **React Context**: Manages application state across all components
 
 ## 📸 Screenshots
-*(Would be added here if available)*
+<img width="2532" height="2668" alt="Image" src="https://github.com/user-attachments/assets/cfe4aa63-b46d-45d1-85b1-9125e6ca026f" />
+<img width="666" height="301" alt="Image" src="https://github.com/user-attachments/assets/66244b1c-c824-4109-a240-353666c4587a" />
+<img width="671" height="355" alt="Image" src="https://github.com/user-attachments/assets/4652811c-fa2f-491f-afbb-ca50640bb4b9" />
